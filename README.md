@@ -1,6 +1,6 @@
 Materiale per il modulo [MFN0247A] del
 
-### Corso di Laurea Magistrale in Biotecnologie Industriali
+### Corso di Laurea Magistrale in<br> Biotecnologie Industriali
 
 Università di Torino
 
