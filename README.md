@@ -6,7 +6,13 @@ Università di Torino
 
 La cartella `lezioni` contiene i notebook visti a lezione.
 
-La cartella `dati` contiene datasets considerati a lezione.
+La cartella `esercizi` contiene materiale per le esercitazioni.
+
+La cartella `dati` contiene i dataset considerati a lezione e nelle esercitazioni.
+
+*Tutto il resto è da ignorare*.
+
+
 
 <!--Si consiglia di navigare la repositoria con [Binder](https://mybinder.org/v2/gh/domenicozambella/BioTeMo19/master)(anche se ci mette del tempo a caricare).
 
