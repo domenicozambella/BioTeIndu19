@@ -1,0 +1,14 @@
+s substrate concentration in nM/ml
+
+v velocity in mM/ml*min
+
+s, v
+0.0, 3.4
+5.0, 13.4
+7.0, 16.1
+10.0, 20.6
+16.0, 25.3
+30.0, 32.4
+50.0, 38.4
+80.0, 44.3
+120.0, 48.4
