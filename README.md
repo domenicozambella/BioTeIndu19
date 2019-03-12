@@ -12,4 +12,4 @@ La cartella `dati` contiene i dataset considerati a lezione e nelle esercitazion
 
 *Tutto il resto è da ignorare*.
 
-Si consiglia di navigare la repositoria con [Binder](https://mybinder.org/v2/gh/domenicozambella/BioTeIndu19/master)(anche se ci mette del tempo a caricare).
+Si consiglia di navigare la repositoria con [Binder](https://mybinder.org/v2/gh/domenicozambella/BioTeIndu19/master) (attenzione, è molto lento a caricare e dopo qualche minuto di inattività chiude la sessione).
