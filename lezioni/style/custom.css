@@ -14,8 +14,9 @@ div.jp-MarkdownOutput {font-family: "Times New Roman", Times, serif;
 }
 
 h1 {
-    font-size: x-large  !important;
+    font-size: xx-large  !important;
     margin-top: 0ex !important;
+    margin-bottom: 10ex !important;
 }
 
 h2 {
